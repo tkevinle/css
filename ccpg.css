@@ -16,7 +16,7 @@ h1 {
 
 /* Applies to all elements with <... class="someclass"> specified. */
 .tablefill { 
-    background: #F5F6F6;
+    background-color: #F5F6F6;
     vertical-align: bottom
     ; }
 
