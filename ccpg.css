@@ -5,6 +5,13 @@ body {
   background-color: #ffffff;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+input[type=text], select {
+  display: inline-block;
+  border: px solid;
+  border-radius: 0px;
+  box-sizing: border-box;
+  background-color: #D5EFFC;
+}
 
 /* Applies to all <h1>...</h1> elements. */
 h1 {
