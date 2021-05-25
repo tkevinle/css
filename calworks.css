@@ -1,0 +1,57 @@
+/* Applies to the entire body of the HTML document (except where overridden by more specific
+selectors). */
+body {
+  margin: 25px;
+  background-color: #ffffff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #52575B;
+}
+input[type=text], select {
+  display: inline-block;
+  border: 0px;
+  border-radius: 0px;
+  box-sizing: border-box;
+  background-color: #fff9d9;
+  border-bottom: 1px;
+  border-bottom-color: #AEB2B2;
+  vertical-align: bottom;
+
+}
+input[type=radio] {
+  border: 1px solid #52575B;
+  padding: 0.5em;
+  display: inline-block;
+}
+/* Applies to all <h1>...</h1> elements. */
+h1 {
+  font-size: 55px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+
+table.officeuse {
+  border: 1px solid #52575B;
+}   
+
+/* Applies to all elements with <... class="someclass"> specified. */
+.tablefill { 
+    background-color: #F5F6F6;
+    vertical-align: bottom
+    ; }
+
+.flatradio {
+  display: inline-block;
+}
+
+
+
+
+
+.#textbox { 
+  background-color: #D5EFFC;
+  vertical-align: middle;
+  }
+
+/* Applies to the element with <... id="someid"> specified. */
+#blue { color: #2066B1; }
