@@ -195,6 +195,13 @@ tr:last-child td:last-child {
     font-weight: bold;
     padding-bottom: 10px;
     width: 150px;
+	font-size: 12px;
+    padding: 5px 5px;
+    width: 120px;
+	background-color: #CCC;
+	width: auto;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
 }
 
 
