@@ -1,0 +1,16 @@
+input[type=text], select {
+  display: inline-block;
+  border: 0px;
+  border-radius: 0px;
+  box-sizing: border-box;
+  background-color: #c3e3a8;
+  border-bottom: 1px;
+  border-color: #000000;
+  vertical-align: bottom;
+
+}
+input[type=radio] {
+  border: 1px solid #000000;
+  padding: 0.5em;
+  display: inline-block;
+}
