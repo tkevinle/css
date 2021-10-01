@@ -1,4 +1,4 @@
-input[type=text], select {
+input[type=text] {
   display: inline-block;
   border: 0px;
   border-radius: 0px;
